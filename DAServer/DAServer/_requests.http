@@ -1,0 +1,8 @@
+@baseUrl = https://localhost:5001
+
+
+################################################## Com
+GET {{baseUrl}}/Com/helloworld?message=abc
+#####
+GET {{baseUrl}}/Com/img
+#####
